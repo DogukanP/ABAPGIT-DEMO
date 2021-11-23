@@ -1,0 +1,3 @@
+REPORT ZABAP_GIT_DEMO.
+
+write :/ 'HELLO GITHUB' .
