@@ -1,0 +1,3 @@
+REPORT ZABAP_DEMO_DEMO0003.
+
+WRITE :/ 'merhaba' .
